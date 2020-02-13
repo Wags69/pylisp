@@ -77,3 +77,6 @@ Note the lack of loops. That's because you don't need loops. Just recurse your f
  
 ## What will it do?
 Right now it lacks the cream of lisp , that is the quoting and macro system. I also want it to interop with python, so that pylisp can even import python modules and run python scripts. Later I want to move the pylisp implementation to rust, and then afterwords move it to C compilation.
+
+## Thanks to:
+https://github.com/kanaka/mal
